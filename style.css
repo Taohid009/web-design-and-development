@@ -1,0 +1,36 @@
+h1{
+    color: red;
+    text-align: center;
+    background-color: white;
+
+}
+nav{
+    width: 100%;
+    margin: 25px 30px 42px 100px;
+   
+    height: 100%;
+    padding: 20px;
+    background-color: rgb(233, 20, 20);
+    border-style: dotted;
+    border-width: 20px;
+    border-color: white;
+
+    border: 5px;
+    border-radius: 10px;
+
+}
+div {
+    width: 350px;
+    height: 45px;
+    padding: auto;
+    border: 45px;
+    margin: auto;
+}
+h1{
+    font-family:"Roboto";
+}
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+ 
+}
